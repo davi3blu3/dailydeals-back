@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/davi3blu3/dailydeals-back/issues"
   },
-  "homepage": "https://github.com/davi3blu3/dailydeals-back#readme"
+  "homepage": "https://github.com/davi3blu3/dailydeals-back#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
 }

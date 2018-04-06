@@ -1,0 +1,19 @@
+{
+  "name": "dailydeals-back",
+  "version": "1.0.0",
+  "description": "following auth0 tutorial - https://auth0.com/blog/angular-2-authentication/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davi3blu3/dailydeals-back.git"
+  },
+  "author": "davi3blu3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davi3blu3/dailydeals-back/issues"
+  },
+  "homepage": "https://github.com/davi3blu3/dailydeals-back#readme"
+}
